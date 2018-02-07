@@ -5,7 +5,22 @@ Tripster Project
 
 
 
+### 프로젝트 문서
+
+​	[1. 프로젝트 개요](https://docs.google.com/spreadsheets/d/1YZlioDGC1_ZjG3vgJBEAEGqLQkmgylvJ5llZtylcR9Q/edit#gid=1770868064)
+
+​	[2. 프로젝트 환경 및 구성](https://docs.google.com/spreadsheets/d/1YZlioDGC1_ZjG3vgJBEAEGqLQkmgylvJ5llZtylcR9Q/edit#gid=315855045)
+
+​	[3. 테이블 정의서](https://docs.google.com/spreadsheets/d/1YZlioDGC1_ZjG3vgJBEAEGqLQkmgylvJ5llZtylcR9Q/edit#gid=1871943058)
+
+​	[4. 개발파일 정의서](https://docs.google.com/spreadsheets/d/1YZlioDGC1_ZjG3vgJBEAEGqLQkmgylvJ5llZtylcR9Q/edit#gid=1907025232)
+
+​	[5. 인터페이스 정의서](https://docs.google.com/spreadsheets/d/1YZlioDGC1_ZjG3vgJBEAEGqLQkmgylvJ5llZtylcR9Q/edit#gid=1732643214)
+
+
+
 ### Commit Message Format
+
 ```
 <유형>(<영역>): <제목>
 <BLANK LINE>
@@ -36,16 +51,3 @@ Tripster Project
 * plan : 일정
 * dashboard : 대시보드
 
-#### 제목 (Subject)
-* 변경내용에 대한 요약
-
-##### 영어로 작성할 경우 주의사항
-* use the imperative, present tense: "change" not "changed" nor "changes"
-* don't capitalize first letter
-* no dot (.) at the end
-
-#### 세부내용 (Body)
-* 해당 커밋에 대한 자세한 설명
-
-#### 기타 (Footer)
-https://help.github.com/articles/closing-issues-via-commit-messages/
