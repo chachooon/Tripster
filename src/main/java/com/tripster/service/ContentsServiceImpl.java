@@ -26,17 +26,17 @@ public class ContentsServiceImpl implements ContentsService {
 		return dao.getContentsDetail(contentsID);
 	}
 
-	//총 맛집 개수 조회
-	@Override
-	public int getTotalRestaurantNum(Criteria cri) throws Exception {
-		return dao.getTotalRestaurantNum(cri);
-	}
-	
-	//총 관광지 개수 조회
-	@Override
-	public int getTotalPlaceNum(Criteria cri) throws Exception {
-		return dao.getTotalPlaceNum(cri);
-	}
+//	//총 맛집 개수 조회
+//	@Override
+//	public int getTotalRestaurantNum(Criteria cri) throws Exception {
+//		return dao.getTotalRestaurantNum(cri);
+//	}
+//	
+//	//총 관광지 개수 조회
+//	@Override
+//	public int getTotalPlaceNum(Criteria cri) throws Exception {
+//		return dao.getTotalPlaceNum(cri);
+//	}
 	
 	//컨텐츠 평점
 	@Override
